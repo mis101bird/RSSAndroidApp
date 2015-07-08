@@ -2,3 +2,5 @@ This app is for RSS analysis. User can put the RSS xml link to the editText box 
 
 #RSS app
 ![image01](http://i.imgur.com/dpSoM5T.jpg?1) 
+##Using...
+##Custom ListView, ListView Item link, Button link, 9patch-picture, dependency(Maven)
